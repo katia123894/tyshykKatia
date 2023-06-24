@@ -1,0 +1,30 @@
+h1 {
+  color: rgb(230, 230, 136);
+  font-family: unset;
+}
+img {
+  width: 250px;
+  height: 250px;
+}
+.o {
+  color: royalblue;
+  font-family: cursive;
+}
+.d {
+  color: rgb(4, 255, 42);
+  font-family: cursive;
+}
+Body {
+  background-color: rgb(244, 168, 54);
+}
+.q {
+  color: rgb(182, 120, 213);
+  font-family: cursive;
+}
+a {
+  background-color: rgb(152, 155, 239);
+  border: 2px solid rgb(38, 48, 243);
+  border-radius: 100px;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+}
